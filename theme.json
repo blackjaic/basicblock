@@ -1,0 +1,318 @@
+{
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"background": true,
+			"custom": true,
+			"customDuotone": true,
+			"customGradient": true,
+			"defaultDuotone": true,
+			"defaultGradients": true,
+			"defaultPalette": true,
+			"duotone": [],
+			"gradients": [],
+			"palette": [
+				{
+					"color": "#353535",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#f9fad7",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#dc83d0",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#810c91",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#d7d7d7",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				},
+				{
+					"color": "#050505",
+					"name": "CardOutline",
+					"slug": "cardoutline"
+				},
+				{
+					"color": "#222222",
+					"name": "DropShadow",
+					"slug": "dropshadow"
+				}
+			],
+			"text": true
+		},
+		"layout": {
+			"contentSize": "720px",
+			"wideSize": "1000px"
+		},
+		"shadow": {
+			"defaultPresets": true,
+			"presets": []
+		},
+		"spacing": {
+			"customSpacingSize": true,
+			"spacingScale": {
+				"increment": 1.5,
+				"mediumStep": 1.5,
+				"operator": "*",
+				"steps": 7,
+				"unit": "rem"
+			},
+			"spacingSizes": [],
+			"units": [
+				"%",
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw"
+			]
+		},
+		"typography": {
+			"customFontSize": true,
+			"dropCap": true,
+			"fontFamilies": [
+				{
+					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+					"name": "System Font",
+					"slug": "system-font"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Marcellus",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/marcellus_normal_400.ttf"
+							]
+						}
+					],
+					"fontFamily": "Marcellus",
+					"slug": "marcellus"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Quicksand",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": [
+								"file:./assets/fonts/quicksand_normal_300.ttf"
+							]
+						},
+						{
+							"fontFamily": "Quicksand",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/quicksand_normal_400.ttf"
+							]
+						},
+						{
+							"fontFamily": "Quicksand",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": [
+								"file:./assets/fonts/quicksand_normal_500.ttf"
+							]
+						},
+						{
+							"fontFamily": "Quicksand",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": [
+								"file:./assets/fonts/quicksand_normal_600.ttf"
+							]
+						},
+						{
+							"fontFamily": "Quicksand",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/quicksand_normal_700.ttf"
+							]
+						}
+					],
+					"fontFamily": "Quicksand",
+					"slug": "quicksand"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Updock",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/updock_normal_400.ttf"
+							]
+						}
+					],
+					"fontFamily": "Updock",
+					"slug": "updock"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Flavors",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/flavors_normal_400.ttf"
+							]
+						}
+					],
+					"fontFamily": "Flavors",
+					"slug": "flavors"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Tilt Neon",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/tilt-neon_normal_400.ttf"
+							]
+						}
+					],
+					"fontFamily": "Tilt Neon",
+					"slug": "tilt-neon"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Mea Culpa",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/mea-culpa_normal_400.ttf"
+							]
+						}
+					],
+					"fontFamily": "Mea Culpa",
+					"slug": "mea-culpa"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "PT Serif",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/pt-serif_normal_400.ttf"
+							]
+						},
+						{
+							"fontFamily": "PT Serif",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": [
+								"file:./assets/fonts/pt-serif_italic_400.ttf"
+							]
+						},
+						{
+							"fontFamily": "PT Serif",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/pt-serif_normal_700.ttf"
+							]
+						},
+						{
+							"fontFamily": "PT Serif",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": [
+								"file:./assets/fonts/pt-serif_italic_700.ttf"
+							]
+						}
+					],
+					"fontFamily": "PT Serif",
+					"slug": "pt-serif"
+				}
+			],
+			"fontSizes": [],
+			"fontStyle": true,
+			"fontWeight": true,
+			"letterSpacing": true,
+			"textDecoration": true,
+			"textTransform": true
+		},
+		"useRootPaddingAwareAlignments": true
+	},
+	"styles": {
+		"blocks": {
+			"core/quote": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--tilt-neon)"
+				}
+			}
+		},
+		"color": {
+			"background": "var(--wp--preset--color--base)",
+			"text": "var(--wp--preset--color--contrast)"
+		},
+		"css": ".blog-card { border: 1px solid var(--wp--preset--color--cardoutline); box-shadow: 5px 5px 5px var(--wp--preset--color--dropshadow); }",
+		"elements": {
+			"h1": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--tilt-neon)",
+					"fontSize": "3.5em",
+					"lineHeight": "1.5"
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--tilt-neon)",
+					"fontSize": "2.5em"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--tilt-neon)",
+					"fontSize": "1.5em"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--tilt-neon)"
+				}
+			},
+			"link": {
+				"color": {
+					"text": "var(--wp--preset--color--primary)"
+				},
+				"typography": {
+					"textDecoration": "none"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--pt-serif)",
+			"fontStyle": "normal",
+			"fontWeight": "400"
+		}
+	},
+	"templateParts": [
+		{
+			"area": "header",
+			"name": "header"
+		},
+		{
+			"area": "footer",
+			"name": "footer"
+		}
+	],
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.3/theme.json"
+}
