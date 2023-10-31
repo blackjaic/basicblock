@@ -1,0 +1,87 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#fbfbef",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#5e5e5e",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#5fc78e",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#5c910c",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#e2a9f6",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				},
+				{
+					"color": "#c0ecb6",
+					"name": "CardOutline",
+					"slug": "cardoutline"
+				},
+				{
+					"color": "#EFF7EB",
+					"name": "DropShadow",
+					"slug": "dropshadow"
+				}
+			]
+		}
+	},
+	"styles": {
+		"color": {
+			"background": "var(--wp--preset--color--base)"
+		},
+		"elements": {
+			"button": {
+				"color": {
+					"background": "var(--wp--preset--color--contrast)",
+					"text": "var(--wp--preset--color--base)"
+				}
+			},
+			"h1": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--mea-culpa)"
+				}
+			},
+			"h2": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--mea-culpa)"
+				}
+			},
+			"h3": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--mea-culpa)"
+				}
+			},
+			"heading": {
+				"typography": {
+					"fontFamily": "var(--wp--preset--font-family--mea-culpa)"
+				}
+			},
+			"link": {
+				"color": {
+					"text": "var(--wp--preset--color--primary)"
+				}
+			}
+		},
+		"typography": {
+			"fontFamily": "var(--wp--preset--font-family--marcellus)"
+		}
+	},
+	"title": "Spring",
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.3/theme.json"
+}
